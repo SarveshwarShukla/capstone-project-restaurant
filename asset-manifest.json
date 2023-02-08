@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/capstone-project-restaurant/static/css/main.05c1b393.css",
+    "main.js": "/capstone-project-restaurant/static/js/main.9f5edbc6.js",
+    "index.html": "/capstone-project-restaurant/index.html",
+    "main.05c1b393.css.map": "/capstone-project-restaurant/static/css/main.05c1b393.css.map",
+    "main.9f5edbc6.js.map": "/capstone-project-restaurant/static/js/main.9f5edbc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c1b393.css",
+    "static/js/main.9f5edbc6.js"
+  ]
+}
