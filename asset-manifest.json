@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/capstone-project-restaurant/static/css/main.80cef860.css",
+    "main.css": "/capstone-project-restaurant/static/css/main.5038453b.css",
     "main.js": "/capstone-project-restaurant/static/js/main.cd840ccf.js",
     "static/media/image2.svg": "/capstone-project-restaurant/static/media/image2.46bc7fb5b5740bdc12c97644725a6bad.svg",
     "static/media/image3.svg": "/capstone-project-restaurant/static/media/image3.2860fc30c8f54afa8926e745fc18c472.svg",
@@ -10,11 +10,11 @@
     "static/media/image6.svg": "/capstone-project-restaurant/static/media/image6.0146c9bb940de1163a22d8ecb1aea92f.svg",
     "static/media/logo.svg": "/capstone-project-restaurant/static/media/logo.83fac49a82a61ffc5da1db5c2e6881f2.svg",
     "index.html": "/capstone-project-restaurant/index.html",
-    "main.80cef860.css.map": "/capstone-project-restaurant/static/css/main.80cef860.css.map",
+    "main.5038453b.css.map": "/capstone-project-restaurant/static/css/main.5038453b.css.map",
     "main.cd840ccf.js.map": "/capstone-project-restaurant/static/js/main.cd840ccf.js.map"
   },
   "entrypoints": [
-    "static/css/main.80cef860.css",
+    "static/css/main.5038453b.css",
     "static/js/main.cd840ccf.js"
   ]
 }
